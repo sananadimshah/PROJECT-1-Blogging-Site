@@ -228,11 +228,5 @@ module.exports = {
   deleteByQuery,
 };
 
-// const isValidEmail = function (email) {
-//   let checkemail = /^\w+([\.-]?\w+)@\w+([\.-]?\w+)(\.\w{2,3})+$/
-//   if (checkemail.test(email)) {
-//       return true;
-//   }
-//   return false;
 
-// }
+
