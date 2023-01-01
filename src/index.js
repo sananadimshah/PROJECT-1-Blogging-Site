@@ -1,7 +1,7 @@
                
 
 //My teamates name=====> //Mohd yousuf, sana nadim shah , kusum gupta , ayaan ali
-//if you have any issues realted to my project so  please contact me =====>phone Number===>9717847131
+
 
 const express = require('express');
 const bodyParser = require('body-parser');
